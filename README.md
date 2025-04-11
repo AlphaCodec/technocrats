@@ -1,6 +1,4 @@
-** Team Technocrats **
-
-# Smart Resume Analyzer
+# Smart Resume Analyzer (Team Technocrats)
 
 ## Overview
 Welcome to the Smart Resume Analyzer project! This repository contains the code and resources for our project developed during the Kalpathon hackathon at Babu Banarasi Das University (BBDU). Our goal is to create an intelligent tool that can analyze resumes and provide insights to both job seekers and employers.
