@@ -15,7 +15,7 @@ Welcome to the Resume Feedback System project! This repository contains the code
 - **Shivansh Gupta**
 
 ## Project Description
-The Resume Feedback System aims to streamline the hiring process by utilizing advanced algorithms to evaluate resumes. The tool will analyze various aspects of a resume, including formatting, keyword optimization, and overall presentation, to provide feedback and suggestions for improvement.
+The Resume Feedback System aims to streamline the hiring process by utilizing advanced algorithms to evaluate resumes. The tool will analyze various aspects of a resume, including formatting, keyword optimization, and the overall relevance of the resume to the job description, and provide feedback and suggestions for improvement.
 
 ## Features
 - Resume parsing and analysis
