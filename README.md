@@ -6,7 +6,7 @@ Welcome to the Smart Resume Analyzer project! This repository contains the code 
 ## Hackathon Details
 - **Event Name:** Kalpathon
 - **Location:** Babu Banarasi Das University (BBDU)
-- **Date:** [Insert Date Here]
+- **Date:** 12/04/2025
 
 ## Team Members
 - **Shiv Kumar** (Team Representative)
@@ -24,11 +24,10 @@ The Smart Resume Analyzer aims to streamline the hiring process by utilizing adv
 - User-friendly interface
 
 ## Technologies Used
-- **Frontend**: React, Bootstrap, HTML, CSS  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
+- **Frontend**:  HTML, CSS  
+- **Backend**: python  
+- **Database**: SQL Lite
 - **Resume Parsing and Analysis**: Python, spaCy  
-- **Deployment**: Heroku, Docker  
+- **Deployment**: Streamlit 
 - **Version Control**: Git, GitHub  
-- **Testing**: Jest, Mocha, Chai, Pytest  
 
